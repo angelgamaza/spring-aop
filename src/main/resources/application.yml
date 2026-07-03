@@ -6,3 +6,5 @@ server:
 spring:
     application:
         name: spring-aop
+    profiles:
+        active: dev
