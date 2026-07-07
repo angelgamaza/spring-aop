@@ -18,7 +18,7 @@
     <artifactId>spring-aop</artifactId>
     <version>1.0.0</version>
     <name>Spring AOP</name>
-    <description>Example of the use of Spring AOP.</description>
+    <description>A Spring Boot Project created as an example of Spring AOP basic use.</description>
 
     <!-- Project properties -->
     <properties>
